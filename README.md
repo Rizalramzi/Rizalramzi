@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rizalramzi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Next JS and Vue JS 😍
+- 🌱 I’m currently learning Next JS, Vue JS & Nuxt JS 😍
 - 💞️ I’m looking to collaborate on making a great AI in this world
 
 <!---
